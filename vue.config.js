@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/project-name/',
+  publicPath: '/taskManageApp/',
   outputDir: 'docs'
 }
